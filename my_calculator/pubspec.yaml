@@ -8,3 +8,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  characters: ^1.5.0
+  collection: ^1.19.2
+  material_color_utilities: ^0.13.1
+  meta: ^1.17.0
+  vector_math: ^2.2.1
